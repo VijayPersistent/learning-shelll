@@ -1,4 +1,3 @@
-#!/bin/bash
 a=$1
 
 if [ $a -gt 10 ]
